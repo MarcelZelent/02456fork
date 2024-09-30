@@ -104,3 +104,7 @@ venv.bak/
 .mypy_cache/
 
 .DS_Store
+
+# mine
+
+4_Convolutional/data
