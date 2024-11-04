@@ -108,3 +108,10 @@ venv.bak/
 # mine
 
 4_Convolutional/data
+
+6_Mini_Project/images
+
+7_Unsupervised/MNIST/raw/
+
+8_Reinforcement/gym-results
+8_Reinforcement/output
